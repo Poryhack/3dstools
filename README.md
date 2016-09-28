@@ -3,11 +3,11 @@
 
 To build:
 
-1. `git clone https://github.com/Poryhack/3dstools.git`
+1 `git clone https://github.com/Poryhack/3dstools.git`
 
-2. `cd 3dstools/`
+2 `cd 3dstools/`
 
-3. `./autogen.sh`
+3 `./autogen.sh`
 
 4 (if targeting Linux) `./configure`
 
@@ -15,4 +15,4 @@ To build:
 
 4 (if targeting Windows 32bit) `./configure --host=i686-w64-mingw32`
 
-5. `make`
+5 `make`
